@@ -1,6 +1,7 @@
 baseURL: https://flynngame.dev/
 languageCode: en-us
-title: Flynn Coulter Game Dev
+title: Flynn Coulter Game Engineer
+languageCode: "en-us"
 
 module:
   imports:
@@ -11,6 +12,27 @@ menu:
     - name: Home
       pageRef: /
       weight: 1
-    - name: Default
-      pageRef: /default/
+    - name: Games
+      pageRef: /Games/
       weight: 2
+    - name: Projects
+      pageRef: /Projects/
+      weight: 3
+    - name: Resume
+    
+      
+params:
+  page:
+    width: full
+  footer:
+    width: thin
+  navbar:
+    displayTitle: true
+    displayLogo: false
+  footer_content: "Your custom footer content here."
+  
+    
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
