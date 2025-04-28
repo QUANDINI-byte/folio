@@ -9,5 +9,5 @@ module:
 menu:
   main:
     - name: Default
-      pageRef: /default
+      pageRef: /default/
       weight: 1
