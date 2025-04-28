@@ -1,0 +1,11 @@
+{{ $id := default "37495f741acb4155a662819a58bc8e51" (.Get 0) }}
+{{ $button_name := default "Submit" (.Get 1) }}
+{{ $redirect := .Get 2 }}
+
+<form accept-charset="UTF-8" action="https://formkeep.com/f/{{ $id }}" method="POST" style="display: flex; flex-direction: column; max-width: 400px; margin: auto;">
+    <input type="hidden" name="utf8" value="✓">
+    {{ if $redirect }}<input type="hidden" name="_redirect_url" value="{{ $redirect }}"> {{ end }}
+    <input type="email" name="email" placeholder="name@example.com" required style="margin-bottom: 1em; padding: 0.5em; border: 1px solid #ccc; border-radius: 4px;">
+    <input type="text" name="name" placeholder="Your Name" required style="margin-bottom: 1em; padding: 0.5em; border: 1px solid #ccc; border-radius: 4px;">
+    <button type="submit" style="padding: 0.5em; background-color: #007BFF; color: white; border: none; border-radius: 4px; cursor: pointer;">{{ $button_name }}</button>
+</form>
