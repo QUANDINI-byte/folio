@@ -1,8 +1,5 @@
 ---
-date: '2025-04-28T18:27:19+12:00'
+date: '2025-04-28T18:57:39+12:00'
 draft: true
-title: 'Flynn Coulter'
+title: 'Default'
 ---
-
-
-default page
