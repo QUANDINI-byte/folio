@@ -8,6 +8,9 @@ module:
 
 menu:
   main:
+    - name: Home
+      pageRef: /
+      weight: 1
     - name: Default
       pageRef: /default/
       weight: 1
