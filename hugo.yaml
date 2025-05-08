@@ -1,6 +1,7 @@
 baseURL: https://flynngame.dev/
 languageCode: en
 title: Flynn Coulter | Game Programmer & developer
+description: Game programmer building robust, high performance game systems and tools.
 
 module:
   imports:
