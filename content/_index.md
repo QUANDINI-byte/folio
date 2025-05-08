@@ -4,13 +4,6 @@ description: 'Game engineer'
 toc: false
 ---
 
-<!-- <div class="hero-section">
-  <div class="hero-background" style="background-image: url('/images/dino2.jpg');"></div>
-  <div class="hero-overlay"></div>
-  <div class="hero-content">
-    <h1 class="text-center text-white">Game programmer building robust, high performance game systems and tools.</h1>
-  </div>
-</div> -->
 <div class="hero-section">
   <video class="hero-background" autoplay muted loop playsinline>
     <source src="/Video/Diluvian.mp4" type="video/mp4">
