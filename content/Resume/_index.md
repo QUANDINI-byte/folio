@@ -2,6 +2,7 @@
 title: Resume
 url: /Resume/
 layout: "redirect"
+description: Game programmer building robust, high performance game systems and tools.
 ---
 
 <!DOCTYPE html>

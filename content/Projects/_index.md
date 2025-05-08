@@ -3,6 +3,7 @@ draft: false
 sidebar:
   exclude: false
 weight: 3
+description: Game programmer building robust, high performance game systems and tools.
 ---
 
 ## Projects

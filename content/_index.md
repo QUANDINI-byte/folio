@@ -3,6 +3,7 @@ draft: false
 toc: false
 sidebar:
   exclude: true
+description: Game programmer building robust, high performance game systems and tools.
 ---
 
 <div class="hero-section">
