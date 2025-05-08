@@ -1,7 +1,15 @@
 ---
 title: Resume
-url: /Resume/Flynn_Coulter_Resume-2025.pdf
+url: /Resume/
 layout: "redirect"
 ---
 
-If you are not redirected automatically, [click here](Flynn_Coulter_Resume-2025.pdf).
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=Flynn_Coulter_Resume-2025.pdf" />
+  </head>
+  <body>
+    <p>If you are not redirected, <a href="Flynn_Coulter_Resume-2025.pdf">click here</a>.</p>
+  </body>
+</html>
