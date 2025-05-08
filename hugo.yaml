@@ -22,7 +22,7 @@ menu:
       pageRef: /#reach-out
       weight: 4
     - name: Resume
-      pageRef: "/Resume/flynn_coulter_resume-2025.pdf"
+      pageRef: "/Resume/Flynn_Coulter_Resume-2025.pdf"
       weight: 5
     
       
