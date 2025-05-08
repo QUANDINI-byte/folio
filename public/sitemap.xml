@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://flynngame.dev/games/</loc>
+    <loc>http://localhost:1313/games/</loc>
   </url><url>
-    <loc>https://flynngame.dev/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://flynngame.dev/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-07T00:07:50+12:00</lastmod>
   </url><url>
-    <loc>https://flynngame.dev/contactthanks/</loc>
+    <loc>http://localhost:1313/contactthanks/</loc>
     <lastmod>2025-05-07T00:07:50+12:00</lastmod>
   </url><url>
-    <loc>https://flynngame.dev/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://flynngame.dev/Resume/</loc>
+    <loc>http://localhost:1313/Resume/</loc>
   </url><url>
-    <loc>https://flynngame.dev/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
