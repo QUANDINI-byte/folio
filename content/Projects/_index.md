@@ -13,7 +13,7 @@ draft: false
 ## Dino
 <span style="color: grey;">*Odin Language*</span>
 
-![Dino](/images/Dino2.jpg "Some crash debugging tools")
+![Dino](/images/Dino4.jpg "Some crash debugging tools")
 
 A hobby game engine / framework that started after trying out the [Odin programming language](https://odin-lang.org/). Dino is not aimed at being a general engine, but more specific to hobby projects focusing on tooling and technical design. A key focus for creating Dino was to learn more about the graphics pipeline.
 
