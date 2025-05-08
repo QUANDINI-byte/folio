@@ -98,14 +98,14 @@ toc: false
 </div>
 {{< cards cols=2 >}}
 {{< card
-    link="/Games"
+    link="/games"
     title="Diluvian Ultra - [Released]"
     image="/images/DiluvianUltra.jpg"
     method="Resize" 
     options="1920x1080 q100 jpg"
 >}}
 {{< card
-    link="/Games"
+    link="/games"
     title="Hels Rebellion - [canceled]"
     image="/images/HB.webp"
     method="Resize" 
@@ -118,7 +118,7 @@ toc: false
 </div>
 {{< cards cols=2 >}}
     {{< card 
-        link="/Projects/#dino" 
+        link="/projects/#dino" 
         icon="chip" 
         title="Dino" 
         subtitle="Hobby game engine written in Odin" 
@@ -128,7 +128,7 @@ toc: false
     >}}
     
     {{< card 
-        link="/Projects/#Dismember-Plugin" 
+        link="/projects/#dismember-plugin" 
         icon="brick" 
         title="Dismember Plugin" 
         subtitle="Runtime limb dismemberment" 
@@ -138,7 +138,7 @@ toc: false
     >}}
 
     {{< card 
-        link="/Projects/#dumb-robot" 
+        link="/projects/#dumb-robot" 
         icon="beaker" title="Dumb Robot" 
         subtitle="Small prototype where you manage vacuum robots" 
         image="/images/DumbRobot3.jpg" 
@@ -147,7 +147,7 @@ toc: false
     >}}
 
     {{< card 
-        link="/Projects/#untitled-prototype" 
+        link="/projects/#untitled-prototype" 
         icon="beaker" 
         title="Untitled prototype" 
         subtitle="Small isometric city builder prototype" 
