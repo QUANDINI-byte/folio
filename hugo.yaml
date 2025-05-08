@@ -39,6 +39,8 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+    search:
+      enable: false
     menus:
       - main
   

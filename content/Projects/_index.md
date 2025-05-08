@@ -74,7 +74,7 @@ Each Mess Actor also has a "Percent cleaned for complete" property. This helps w
 
 ![Dino](/images/UntitledProto.gif "")
 
-This untitled prototype was a short project between me and a [friend](https://garethkeenan.artstation.com/). I handled all the programming and my [friend](https://garethkeenan.artstation.com/) handled all the art.
+This untitled prototype was a short project between me and a [friend](https://garethkeenan.artstation.com/). I handled all the programming and my [friend](https://garethkeenan.artstation.com/) handled all the game design and art.
 
 {{< cards cols=1 >}}
 <div class="flex" style="margin-top: 0.8em;">
