@@ -1,10 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flynn Coulter Game Engineer – </title>
+    <title>Flynn Coulter | Game Programmer &amp; developer – </title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Flynn Coulter Game Engineer</description>
+    <description>Recent content on Flynn Coulter | Game Programmer &amp; developer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <lastBuildDate>Wed, 07 May 2025 00:07:50 +1200</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     

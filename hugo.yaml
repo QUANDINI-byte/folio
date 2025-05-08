@@ -1,11 +1,11 @@
 baseURL: https://flynngame.dev/
-languageCode: en-us
-title: Flynn Coulter Game Engineer
-languageCode: "en-us"
+languageCode: en
+title: Flynn Coulter | Game Programmer & developer
 
 module:
   imports:
     - path: github.com/imfing/hextra
+    - path: github.com/mfg92/hugo-shortcode-gallery
 
 menu:
   main:
@@ -18,7 +18,15 @@ menu:
     - name: Projects
       pageRef: /Projects/
       weight: 3
+    - name: Contact
+      pageRef: /#reach-out
+      weight: 4
     - name: Resume
+      pageRef: /Resume/Flynn_Coulter_Resume-2025.pdf
+      weight: 5
+      params:
+        target: _blank
+        rel: noopener
     
       
 params:
@@ -26,11 +34,10 @@ params:
     width: full
   footer:
     width: thin
+          
   navbar:
     displayTitle: true
     displayLogo: false
-  footer_content: "Your custom footer content here."
-  
     
 markup:
   goldmark:
