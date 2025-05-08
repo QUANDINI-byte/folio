@@ -1,7 +1,8 @@
 ---
 draft: false
-description: 'Game engineer'
 toc: false
+sidebar:
+  exclude: true
 ---
 
 <div class="hero-section">
@@ -11,7 +12,7 @@ toc: false
   </video>
   <div class="hero-overlay"></div>
   <div class="hero-content">
-    <h1 class="text-center text-white">Game programmer building robust, high performance game systems and tools.</h1>
+    <h1 class="text-center text-white" style="text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);"><strong style="font-size: 3.5vw; color: #10b981; text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);">Flynn Coulter</strong> <br> Game programmer building robust, high performance game systems and tools.</h1>
   </div>
 </div>
 

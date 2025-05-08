@@ -1,5 +1,8 @@
 ---
 draft: false
+sidebar:
+  exclude: false
+weight: 3
 ---
 
 ## Projects

@@ -22,14 +22,13 @@ menu:
       pageRef: /#reach-out
       weight: 4
     - name: Resume
-      pageRef: /Resume/Flynn_Coulter_Resume-2025.pdf
+      url: "/resume/Flynn_Coulter_Resume-2025.pdf"
       weight: 5
-      params:
-        target: _blank
-        rel: noopener
     
       
 params:
+  mainMenu:
+    onlyMainMenuItems: true
   page:
     width: full
   footer:
@@ -38,6 +37,15 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+    menus:
+      - main
+  
+  search:
+    enable: false
+  
+  sidebar:
+    compact: false
+    disable: true
     
 markup:
   goldmark:

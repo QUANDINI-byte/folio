@@ -1,5 +1,8 @@
 ---
 draft: false
+sidebar:
+  exclude: false
+weight: 2
 ---
 
 ### Please note, these are just games that i can publicly list. I can provide further examples a call.
