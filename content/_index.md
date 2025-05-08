@@ -8,7 +8,7 @@ sidebar:
 <div class="hero-section">
   <video class="hero-background" autoplay muted loop playsinline>
     <source src="/Video/Diluvian.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+     
   </video>
   <div class="hero-overlay"></div>
   <div class="hero-content">
