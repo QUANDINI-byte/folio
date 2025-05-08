@@ -75,7 +75,7 @@ This untitled prototype was a short project between me and a [friend](https://ga
 {{< cards cols=1 >}}
 <div class="flex" style="margin-top: 0.8em;">
     <h2 class="challenges-head">Challenges:</h2>
-    <p class="challenges-paragraph"><strong>Game Maker Studio scripting:</strong> <br> Game Maker Studio 2 had only got struct support just before this project. Although it was challenging to program, it meant finding creative ways to make things work. If i was to revisit this, I would use <a href="/Projects/#dino" style="color: #0369a1; text-decoration: underline;">Dino</a> for it. </p> 
+    <p class="challenges-paragraph"><strong>Game Maker Studio scripting:</strong> <br> Game Maker Studio 2 had only got struct support just before this project. Although it was challenging to program, it meant finding creative ways to make things work. If i was to revisit this, I would use <a href="/projects/#dino" style="color: #0369a1; text-decoration: underline;">Dino</a> for it. </p> 
     <p class="challenges-paragraph"><strong>Isometric perspective in 2D:</strong> <br> This was my first time creating an isometric game in 2D. this meant i needed to learn new formulas for handling positions. </p>
     <p class="challenges-paragraph"><strong>UI:</strong> <br> Game Maker Studio 2 does not have any build in UI tools out of the box, just sprites and collision, the building blocks for UI. </p>
 </div>
