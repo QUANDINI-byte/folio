@@ -8,10 +8,10 @@ description: Game programmer building robust, high performance game systems and 
 
 ## Projects
 {{< cards cols=2 >}}
-    {{< card link="/Projects/#dino" icon="chip" title="Dino" subtitle="Hobby game engine written in Odin" image="/images/Dino.png" method="Resize" options="1920x1080 q100 jpg" >}}
-    {{< card link="/Projects/#dismember-plugin" icon="brick" title="Dismember Plugin" subtitle="Runtime limb dismemberment" image="/images/Dismember.jpg" method="Resize" options="1920x1080 q100 jpg" >}}
-    {{< card link="/Projects/#dumb-robot" icon="beaker" title="Dumb Robot" subtitle="Small prototype where you manage vacuum robots" image="/images/DumbRobot3.jpg" method="Resize" options="1920x1080 q100 jpg" >}}
-    {{< card link="/Projects/#untitled-prototype" icon="beaker" title="Untitled prototype" subtitle="Small isometric city builder prototype" image="/images/UntitledProto.gif" >}}
+    {{< card link="/projects/#dino" icon="chip" title="Dino" subtitle="Hobby game engine written in Odin" image="/images/Dino.png" method="Resize" options="1920x1080 q100 jpg" >}}
+    {{< card link="/projects/#dismember-plugin" icon="brick" title="Dismember Plugin" subtitle="Runtime limb dismemberment" image="/images/Dismember.jpg" method="Resize" options="1920x1080 q100 jpg" >}}
+    {{< card link="/projects/#dumb-robot" icon="beaker" title="Dumb Robot" subtitle="Small prototype where you manage vacuum robots" image="/images/DumbRobot3.jpg" method="Resize" options="1920x1080 q100 jpg" >}}
+    {{< card link="/projects/#untitled-prototype" icon="beaker" title="Untitled prototype" subtitle="Small isometric city builder prototype" image="/images/UntitledProto.gif" >}}
 {{< /cards >}}
 
 ## Dino
