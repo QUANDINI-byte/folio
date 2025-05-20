@@ -89,9 +89,9 @@ description: Game programmer building robust, high performance game systems and 
 <br>
 
 <div class="mb-3 pt-0" style="margin-top: 2.5em;">
-    <h1>Game Programming</h1>
+    <h1>Game Programming & Development</h1>
 </div>
-{{< cards cols=2 >}}
+{{< cards cols=3 >}}
 {{< card
     link="/games"
     title="Diluvian Ultra - [Released]"
@@ -101,10 +101,15 @@ description: Game programmer building robust, high performance game systems and 
 >}}
 {{< card
     link="/games"
-    title="Hels Rebellion - [canceled]"
-    image="/images/HB.webp"
+    title="Diluvian Awakening - [Released]"
+    image="/images/Diluvian_Awakening.jpg"
     method="Resize" 
     options="1920x1080 q100 webp"
+>}}
+{{< card
+    link="/games"
+    title="Hels Rebellion - [canceled]"
+    image="/images/HB.jpg"
 >}}
 {{< /cards >}}
 
@@ -147,6 +152,14 @@ description: Game programmer building robust, high performance game systems and 
         title="Untitled prototype" 
         subtitle="Small isometric city builder prototype" 
         image="/images/UntitledProto.gif" 
+    >}}
+
+    {{< card 
+        link="/projects/#gorilla-prototype" 
+        icon="beaker" 
+        title="Gorilla prototype" 
+        subtitle="Velocity based puzzle game" 
+        image="/images/Gorilla.jpg" 
     >}}
 
 {{< /cards >}}
