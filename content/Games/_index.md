@@ -181,11 +181,8 @@ description: Game programmer building robust, high performance game systems and 
     </style>
 
     <p>- Sole programmer overseeing all technical aspects, including systems architecture, gameplay, and a small amount of DevOps. </p>
-    <p>- Implemented and designed editor tools to aid artists. </p>
     <p>- Managed internal, QA, and release builds. </p>
-    <p>- Wrote a custom C# app for handling builds. </p>
-    <p>- Optimized existing game systems, materials and particle effects. </p>
-    <p>- Rewrote entire project in 7 months. </p>
+    <p>- Optimized new game systems, materials and particle effects. </p>
     <p>- Designed and implemented a custom State Machine for enemy AI. </p>
     <p>- Supported post-release builds (patches). </p>
     <p>- Improved and extended Paper2D plugin provided with Unreal Engine 5 to meet technical and design requirements. </p>
