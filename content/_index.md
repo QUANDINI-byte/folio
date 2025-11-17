@@ -38,7 +38,7 @@ description: Game programmer building robust, high performance game systems and 
         </style>
     </head>
     <body>
-        <ul>
+        <li style="text-align:center;">
              <button class="btn-primary" >C++</button>
              <button class="btn-primary" >Odin</button>
              <button class="btn-primary" >Unreal Engine</button>
@@ -48,7 +48,7 @@ description: Game programmer building robust, high performance game systems and 
              <button class="btn-primary" >EOS</button>
              <button class="btn-primary" >GOG</button>
              <button class="btn-primary" >FMOD</button>
-        </ul>
+        </li>
     </body>
 </div>
 
@@ -72,7 +72,7 @@ description: Game programmer building robust, high performance game systems and 
         </style>
     </head>
     <body>
-        <ul>
+        <li style="text-align:center;">
             <button class="btn-secondary" >C#</button>
             <button class="btn-secondary" >Python</button>
             <button class="btn-secondary" >Beef</button>
@@ -81,7 +81,7 @@ description: Game programmer building robust, high performance game systems and 
             <button class="btn-secondary" >Unity</button>
             <button class="btn-secondary" >Blender</button>
             <button class="btn-secondary" >Linux</button>
-        </ul>
+        </li>
     </body>
 </div>
 {{< /cards >}}
@@ -152,14 +152,6 @@ description: Game programmer building robust, high performance game systems and 
         title="Untitled prototype" 
         subtitle="Small isometric city builder prototype" 
         image="/images/UntitledProto.gif" 
-    >}}
-
-    {{< card 
-        link="/projects/#gorilla-prototype" 
-        icon="beaker" 
-        title="Gorilla prototype" 
-        subtitle="Velocity based puzzle game" 
-        image="/images/Gorilla.jpg" 
     >}}
 
 {{< /cards >}}

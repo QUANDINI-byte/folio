@@ -12,7 +12,6 @@ description: Game programmer building robust, high performance game systems and 
     {{< card link="/projects/#dismember-plugin" icon="brick" title="Dismember Plugin" subtitle="Runtime limb dismemberment" image="/images/Dismember.jpg" method="Resize" options="1920x1080 q100 jpg" >}}
     {{< card link="/projects/#dumb-robot" icon="beaker" title="Dumb Robot" subtitle="Small prototype where you manage vacuum robots" image="/images/DumbRobot3.jpg" method="Resize" options="1920x1080 q100 jpg" >}}
     {{< card link="/projects/#untitled-prototype" icon="beaker" title="Untitled prototype" subtitle="Small isometric city builder prototype" image="/images/UntitledProto.gif" >}}
-    {{< card link="/projects/#gorilla-prototype" icon="beaker" title="Gorilla prototype" subtitle="Velocity based puzzle game" image="/images/Gorilla.jpg" >}}
 {{< /cards >}}
 
 ## Dino
@@ -26,7 +25,7 @@ A hobby game engine / framework that started after trying out the [Odin progr
 <div class="flex" style="margin-top: 0.8em;">
     <h2 class="challenges-head">Challenges:</h2>
     <p class="challenges-paragraph"><strong>Architecture and scope:</strong> <br> Keeping Dino’s architecture lean for hobby projects while supporting a robust graphics pipeline, avoiding the bloat common in larger engines has been a challenge. However it has also meant that itteration on general architecture and systems is fast and forgiving.</p>
-    <p class="challenges-paragraph"><strong>Simplified Pipeline:</strong> <br> Designing an accessible graphics pipeline using Odin’s DirectX11 bindings that balances learning and functionality. Dino's rendermakes it easy to customise how a game is rendered, making it easy to stylize rendering. </p>
+    <p class="challenges-paragraph"><strong>Simplified Pipeline:</strong> <br> Designing an accessible graphics pipeline using Odin’s DirectX11 bindings that balances learning and functionality. </p>
     <p class="challenges-paragraph"><strong>Tooling Without Bloat:</strong> <br> Creating friendly editor tools while maintaining a lightweight reusable framework where it makes sense. </p>
 </div>
 {{< /cards >}}
@@ -83,20 +82,5 @@ This untitled prototype was a short project between me and a [friend](https://ga
     <p class="challenges-paragraph"><strong>Game Maker Studio scripting:</strong> <br> Game Maker Studio 2 had only got struct support just before this project. Although it was challenging to program, it meant finding creative ways to make things work. If i was to revisit this, I would use <a href="/projects/#dino" style="color: #0369a1; text-decoration: underline;">Dino</a> for it. </p> 
     <p class="challenges-paragraph"><strong>Isometric perspective in 2D:</strong> <br> This was my first time creating an isometric game in 2D. this meant i needed to learn new formulas for handling positions. </p>
     <p class="challenges-paragraph"><strong>UI:</strong> <br> Game Maker Studio 2 does not have any build in UI tools out of the box, just sprites and collision, the building blocks for UI. </p>
-</div>
-{{< /cards >}}
-
-## Gorilla prototype
-<span style="color: grey;">*Unreal Engine 5*</span>
-
-{{< youtube QAR_RI0yrAU >}}
-
-Small project where i quickly prototyped an idea i woke up with.
-The goal is to collect all bananas and reach the end. Each time the player punches, they *eat* a banana. Running out of bananas is bad, you get too hungry!
-
-{{< cards cols=1 >}}
-<div class="flex" style="margin-top: 0.8em;">
-    <h2 class="challenges-head">Challenges:</h2>
-    <p class="challenges-paragraph"><strong>Velocity tuning:</strong> <br> In future i would prefer to use a velocity curve which would make it much more easy to design level elements and tweak the feel for the player. </p>
 </div>
 {{< /cards >}}
