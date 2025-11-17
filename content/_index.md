@@ -89,7 +89,7 @@ description: Game programmer building robust, high performance game systems and 
 <br>
 
 <div class="mb-3 pt-0" style="margin-top: 2.5em;">
-    <h1>Game Programming & Development</h1>
+    <h1 style="text-align: center;">Game Programming & Development</h1>
 </div>
 {{< cards cols=3 >}}
 {{< card
@@ -114,7 +114,7 @@ description: Game programmer building robust, high performance game systems and 
 {{< /cards >}}
 
 <div class="mb-3 pt-0" style="margin-top: 2.5em;">
-    <h1>Projects</h1>
+    <h1 style="text-align: center;">Projects</h1>
 </div>
 {{< cards cols=2 >}}
     {{< card 
