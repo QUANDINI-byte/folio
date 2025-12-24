@@ -94,21 +94,21 @@ description: Game programmer building robust, high performance game systems and 
 {{< cards cols=3 >}}
 {{< card
     link="/games"
-    title="Diluvian Ultra - [Released]"
+    title="Diluvian Ultra - [Unreal Engine]"
     image="/images/DiluvianUltra.jpg"
     method="Resize" 
     options="1920x1080 q100 jpg"
 >}}
 {{< card
     link="/games"
-    title="Diluvian Awakening - [Released]"
+    title="Diluvian Awakening - [Unreal Engine]"
     image="/images/Diluvian_Awakening.jpg"
     method="Resize" 
     options="1920x1080 q100 webp"
 >}}
 {{< card
     link="/games"
-    title="Hels Rebellion - [canceled]"
+    title="Hels Rebellion - [Unreal Engine]"
     image="/images/HB.jpg"
 >}}
 {{< /cards >}}
