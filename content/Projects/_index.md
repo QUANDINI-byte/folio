@@ -62,7 +62,6 @@ The vacuum
 {{< youtube ppLUZFv3hCA >}}
 
 Any texture can be used to generate Mess Actor Data (MAD) and a transparentcy threshold is used to aid in control for what contributes to MAD.
-![DumbRobot](/images/DumbRobot.jpg)
 MAD is built in editor and is cached to an asset for each level. The obvious downside to this is having to load all MAD data, however it is rather tiny in size and is only required at the beginning of a level.
 
 Each Mess Actor texture has its own voxel resolution and is automatically suggests a smaller sizes or larger resolution when a new texture is selected or a designer asks for it, to keep consistancy, and performance impact at a minimum.
