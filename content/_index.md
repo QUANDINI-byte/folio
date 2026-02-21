@@ -160,7 +160,7 @@ description: Game programmer building robust, high performance game systems and 
 <button 
   id="resume-button-container" 
   class="btn-res w-full mt-10 font-bold uppercase text-xl py-3"
-  onclick="window.open('/Resume/Flynn_Coulter_Resume-2025.pdf', '_blank')"
+  onclick="window.open('/Resume/Flynn_Coulter_Resume-2026.pdf', '_blank')"
   role="button"
   >Resume</button>
 <script>
